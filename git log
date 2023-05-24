@@ -1,0 +1,35 @@
+[33mcommit a7d62ed636762ecdcb196e0eabc136dc6c138263[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: vladyslav-crunch <vladyslav.crunch@gmail.com>
+Date:   Wed Apr 12 13:17:14 2023 +0200
+
+    Add a new class named Mieszkaniec
+
+[33mcommit 512a8bb94d702905c82bcea44ddd2e8d07fcced4[m
+Author: vladyslav-crunch <vladyslav.crunch@gmail.com>
+Date:   Wed Mar 29 13:12:34 2023 +0200
+
+    Adding a new class "Sąsiad"
+
+[33mcommit 65922158fc15f514d4ceffd30dde3185091000a8[m
+Author: vladyslav-crunch <vladyslav.crunch@gmail.com>
+Date:   Wed Mar 29 00:35:11 2023 +0200
+
+    Solution for the problem
+
+[33mcommit eba216b1cd2d4b44a46b49ae85fb5f2af8f35b19[m
+Author: vladyslav-crunch <vladyslav.crunch@gmail.com>
+Date:   Tue Mar 28 22:17:21 2023 +0200
+
+    My first commit
+
+[33mcommit 86320f299b18198549372050bbaf09028d6a190b[m
+Author: vladyslav-crunch <vladyslav.crunch@gmail.com>
+Date:   Tue Mar 28 22:08:02 2023 +0200
+
+    First test commit
+
+[33mcommit 7091b2606c593ed72acc46691794fdc8760d43e8[m
+Author: Vladyslav Tretiak <128496399+vladyslav-crunch@users.noreply.github.com>
+Date:   Tue Mar 28 21:12:29 2023 +0200
+
+    Initial commit

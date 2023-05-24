@@ -6,9 +6,17 @@ CONFIG -= qt
 SOURCES += \
         generatorlosowy.cpp \
         main.cpp \
-        organizm.cpp
+        mieszkaniec.cpp \
+        nisza.cpp \
+        organizm.cpp \
+        osobniki.cpp \
+        sasiedztwo.cpp
 
 HEADERS += \
     generatorlosowy.h \
+    mieszkaniec.h \
+    nisza.h \
     organizm.h \
+    osobniki.h \
+    sasiedztwo.h \
     ustawienia.h
